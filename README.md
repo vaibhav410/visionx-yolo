@@ -42,7 +42,7 @@ https://huggingface.co/spaces/Suiii0/visionx-yolo
 
 ##  Future Work / Improvements  
 - Add support for video-stream detection + real-time alerts  
-- Expand the safety-objects dataset (e.g. include fire-extinguishers, gas masks)  
+- Expand the safety-objects dataset (e.g. ,gas masks)  
 - Add logging / report generation for safety compliance  
 - Option to export detection results (JSON / CSV)  
 

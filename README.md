@@ -25,7 +25,7 @@ SafeX-YOLO is a custom-trained object detection system that identifies industria
 
 ## 📦 Installation & Running Locally  
 ```bash
-git clone https://github.com/<your-username>/visionx-yolo.git
+git clone https://github.com/<vaibhav410>/visionx-yolo.git
 cd visionx-yolo
 pip install -r requirements.txt
 python app.py
